@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**AnushkaX/anushkax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Undergraduate from Kurunegala, Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. I am interested in, develop software solutions for and with Java, C, Flutter and NodeJS.
 
-Here are some ideas to get you started:
+## 📬 Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn : https://www.linkedin.com/in/muthusinghe/
+- Facebook: https://www.facebook.com/muthusinghe/
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/anushkax/anushkax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkax&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/anushkax/anushkax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkax&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
