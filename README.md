@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AnushkaX)
+
 I am a Computer Science Undergraduate from Kurunegala, Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. I am interested in, develop software solutions for and with Java, C, Flutter and NodeJS.
 
 ## 📬 Get in touch
