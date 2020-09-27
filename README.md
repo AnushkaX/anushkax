@@ -6,10 +6,10 @@
 
 I am a Computer Science Undergraduate from Kurunegala, Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. I am interested in IoT, Robotics and Software Development. 
 
-## 📬 Get in touch
+<a href="https://www.facebook.com/muthusinghe/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/muthusinghe/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/_anushkax_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
-- LinkedIn : https://www.linkedin.com/in/muthusinghe/
-- Facebook: https://www.facebook.com/muthusinghe/
 
 ## &#x1f4c8; My GitHub Stats
 
