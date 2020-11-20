@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AnushkaX)
 
-<img align="right" alt="GIF" src="https://static.dribbble.com/users/1031926/screenshots/2623328/mark-slide-geek.gif" width="350" height="260" />
+<img align="right" alt="GIF" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" width="350" height="260" />
 
 I am a Computer Science Undergraduate from Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. 
 
