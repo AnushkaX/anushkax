@@ -6,7 +6,7 @@
 
 I am a Computer Science Undergraduate from Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. 
 
-I am interested in IoT, Robotics, Gaming and Software Development. 
+I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Development. 
 
 <a href="https://www.facebook.com/muthusinghe/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/muthusinghe/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
