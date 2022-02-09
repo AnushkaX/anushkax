@@ -18,9 +18,6 @@ I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Develop
 
 
 
-## Currently Working On 
-
-MultiplayerFPS Game Using Unity : https://github.com/AnushkaX/MultiplayerFPS
 
 
 
