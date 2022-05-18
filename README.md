@@ -13,21 +13,3 @@ I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Develop
 <a href="https://www.instagram.com/_anushkax_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/AnushkaX"><img height="30" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg?raw=true"></a>&nbsp;&nbsp;
 
-
-
-
-
-
-
-
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/anushkax/anushkax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkax&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/anushkax/anushkax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkax&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
